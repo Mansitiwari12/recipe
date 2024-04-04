@@ -1,0 +1,6 @@
+https://api.edamam.com/search?q='pizza'&app_id=9cc1d118&app_key=6adaff457bceb1c4d9cf4a11d3be59b8
+
+applocation id = 9cc1d118
+
+
+application key= 6adaff457bceb1c4d9cf4a11d3be59b8

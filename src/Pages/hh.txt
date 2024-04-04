@@ -1,0 +1,2 @@
+use effect hook is used to run side effect such as fetching api ,updating the dom,it takes two parameters 
+first is a call back function ,second is arry of dependency.if arry of dependecy is blank use effect will run only one time
