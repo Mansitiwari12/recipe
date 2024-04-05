@@ -20,10 +20,10 @@ function App() {
     <Navbar/>
     <Routes>
 
-      <Route path='/' element={<Home />}/>
+      <Route path='/' element={<Home1 />}/>
       <Route path='/Login' element={<Login />}/>
       <Route path='/Signup' element={<Signup />}/>
-      <Route path='/Home1' element={<Home1/>}/>
+
       <Route path='/Singlerecipe' element={<Singlerecipe/>}/>
     </Routes>
     </BrowserRouter>
